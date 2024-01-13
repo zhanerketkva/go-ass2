@@ -13,6 +13,12 @@ Adding new products to the store through a web form.
 Mazhitova Guzal and Tokenova Zhanerke 
 
 Group: SE-2215
+
+# Pages:
+![page](https://github.com/zhanerketkva/go-ass2/blob/main/photo_5267517749637272645_y.jpg)
+
+![page](https://github.com/zhanerketkva/go-ass2/blob/main/photo_5267517749637272642_y.jpg)
+
 # Instructions to Run the Application:
 Follow these steps to run the Online Store Web Application:
 
